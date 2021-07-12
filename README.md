@@ -12,5 +12,8 @@ Die Konstruktion kann über eine Tabelle angepasst werden.
 # Optionen
 
  -  Überstand der Arbeitsfläche zum Ansätzen von Schraubzwingen
- -  Bohrung in Arbeitsfläche (wie im Video) (noch nicht im CAD)
- -  Ausschnitte in den Seitenteilen für Schraubzwingen (Noch nicht im CAD) 
+ -  Bohrung in Arbeitsfläche (wie im Video) *Kann nach dem Verleimen gebohrt 
+    werden.*
+ -  Ausschnitte in den Seitenteilen für Schraubzwingen als Alternative zum 
+    Überstand (beide Seiten, vorne und hinten) *Vor dem Verleimen 
+    ausschneiden.*
